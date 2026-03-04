@@ -1,0 +1,365 @@
+{
+  "main": {
+    "id": "3738bd06b9e74010",
+    "type": "split",
+    "children": [
+      {
+        "id": "17d229d6a449479c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc1336b957adca8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日志/walk gesture analyse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "walk gesture analyse"
+            }
+          },
+          {
+            "id": "d19a681c1f85763a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/vla.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vla"
+            }
+          },
+          {
+            "id": "c495b975f3cbce09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "62f3e3d144ad7961",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 5.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 5"
+            }
+          },
+          {
+            "id": "ef3d000500e17495",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日志/二月六日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "二月六日"
+            }
+          },
+          {
+            "id": "c972fd7f5c2280cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "远程连接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "远程连接"
+            }
+          },
+          {
+            "id": "f0577124602dd38d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工作日志/脚踝关节 角速度阈值旋转.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "脚踝关节 角速度阈值旋转"
+            }
+          },
+          {
+            "id": "c624d54cf8bb3d22",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260107102434.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260107102434"
+            }
+          },
+          {
+            "id": "3022eb5a7db3e1a3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/AMP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AMP"
+            }
+          },
+          {
+            "id": "97f378461f8c5fc9",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/AMP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "AMP"
+            }
+          },
+          {
+            "id": "274347fcf010c691",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 1.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 1"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "54dbefc4b32376da",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec0d8c0b4d97aa21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aa54de3775aa277",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d0c20f32ab522456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "scp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "89bb4659a5cc4660",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2ed49e0ffba82989",
+    "type": "split",
+    "children": [
+      {
+        "id": "98221219fdb434fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a78c54ac6236501",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a0742ac57ad0822e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Skyworth/电机转速参考.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 电机转速参考"
+            }
+          },
+          {
+            "id": "fd0a8c2b1b8c73da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "697677216fb6b6f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Skyworth/电机转速参考.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 电机转速参考"
+            }
+          },
+          {
+            "id": "baec1f7b9249e60c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "62f3e3d144ad7961",
+  "lastOpenFiles": [
+    "Untitled 4.base",
+    "Untitled 5.base",
+    "2026-03-04.md",
+    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
+    "Pasted Image 20260303182217_218.png",
+    "Pasted Image 20260303174843_735.png",
+    "Pasted Image 20260303174552_676.png",
+    "Pasted Image 20260303174410_187.png",
+    "Pasted Image 20260303174228_913.png",
+    "Pasted Image 20260303174151_096.png",
+    "Untitled.md",
+    "Excalidraw/vla.md",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "工作日志/Drawing 2026-02-03 14.26.01.excalidraw.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Excalidraw/bt_behavior_tree.md",
+    "回调函数.md",
+    "远程连接.md",
+    "wowrobot/start.md",
+    "extended kalman  filter.md",
+    "Excalidraw/isaac.excalidraw.md",
+    "工作日志/脚踝关节 角速度阈值旋转.md",
+    "Excalidraw/isaac gym flow diagram.md",
+    "工作日志/RBDL 控制.md",
+    "工作日志/walk gesture analyse.md",
+    "工作日志/二月七日.md",
+    "工作日志/二月六日.md",
+    "Pasted image 20260209095327.png",
+    "Pasted image 20260209095145.png",
+    "Pasted image 20260209095018.png",
+    "Pasted image 20260209094919.png",
+    "Excalidraw/Hexo.md",
+    "Excalidraw/IPPO.md",
+    "Excalidraw/Drawing 2025-10-15 15.39.03.excalidraw.md",
+    "Excalidraw/AMP.md",
+    "extras_log.csv 数据格式说明.md",
+    "Linux 系统中为用户配置 Docker 权限.md",
+    "BW.md",
+    "vla.md",
+    "vla",
+    "工作日志",
+    "外骨骼机器人",
+    "wowrobot",
+    "Su2024Experiment-freeExoskeleton.pdf",
+    "Untitled.canvas"
+  ]
+}

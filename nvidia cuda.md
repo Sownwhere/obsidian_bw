@@ -1,0 +1,2 @@
+RuntimeError: CUDA unknown error - this may be due to an incorrectly set up environment, e.g. changing env variable CUDA_VISIBLE_DEVICES after program start. Setting the available devices to be zero.
+https://blog.csdn.net/qq_43428139/article/details/133498358
