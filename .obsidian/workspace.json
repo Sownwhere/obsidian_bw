@@ -34,44 +34,17 @@
             }
           },
           {
-            "id": "c495b975f3cbce09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "62f3e3d144ad7961",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 5.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 5"
-            }
-          },
-          {
             "id": "ef3d000500e17495",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/二月六日.md",
+                "file": "AI-ML/What Are Vision Language Models? How AI Sees & Understands Images.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "二月六日"
+              "title": "What Are Vision Language Models? How AI Sees & Understands Images"
             }
           },
           {
@@ -80,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "远程连接.md",
+                "file": "Excalidraw/isaac gym flow diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "远程连接"
+              "title": "isaac gym flow diagram"
             }
           },
           {
@@ -137,22 +110,9 @@
               "icon": "excalidraw-icon",
               "title": "AMP"
             }
-          },
-          {
-            "id": "274347fcf010c691",
-            "type": "leaf",
-            "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled 1.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled 1"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -309,21 +269,49 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "62f3e3d144ad7961",
+  "active": "3aa54de3775aa277",
   "lastOpenFiles": [
-    "Untitled 4.base",
+    "AI-ML/sampling_in_generation_models.md",
+    "AI-ML/FinRL Installation.md",
+    "AI-ML/extended kalman  filter.md",
+    "AI-ML/Bayes theorem.md",
+    "Dev-Tools/BW.md",
+    "Dev-Tools/always used.md",
     "Untitled 5.base",
+    "Exoskeleton/extras_log.csv 数据格式说明.md",
+    "Exoskeleton/远程连接.md",
+    "Exoskeleton/外骨骼电机旋转角度.md",
+    "Exoskeleton/人体运动数据处理脚本解析.md",
+    "Exoskeleton/RK3566 Upgrade.md",
+    "Exoskeleton/AMP： 数据采集实验.md",
+    "Dev-Tools/回调函数.md",
+    "Dev-Tools/上传文件 到 docker里.md",
+    "Dev-Tools/ros2.md",
+    "Dev-Tools/nvidia cuda.md",
+    "Dev-Tools/Markdown (.md) Basic Grammar Guide.md",
+    "Dev-Tools/markdown_formula_guide.md",
+    "Dev-Tools/Linux 系统中为用户配置 Docker 权限.md",
+    "AI-ML/What Are Vision Language Models? How AI Sees & Understands Images.md",
+    "Exoskeleton",
+    "Dev-Tools",
+    "AI-ML",
+    "images/Pasted Image 20260303182217_218.png",
+    "images/Pasted Image 20260303174843_735.png",
+    "images/Pasted Image 20260303174552_676.png",
+    "images/Pasted Image 20260303174410_187.png",
+    "images/Pasted Image 20260303174228_913.png",
+    "images/Pasted Image 20260303174151_096.png",
+    "images/Pasted image 20260209095327.png",
+    "images/Pasted image 20260209095145.png",
+    "images/Pasted image 20260209095018.png",
+    "images/Pasted image 20260209094919.png",
+    "Untitled 4.base",
     "2026-03-04.md",
     "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
-    "Pasted Image 20260303182217_218.png",
-    "Pasted Image 20260303174843_735.png",
-    "Pasted Image 20260303174552_676.png",
-    "Pasted Image 20260303174410_187.png",
-    "Pasted Image 20260303174228_913.png",
-    "Pasted Image 20260303174151_096.png",
     "Untitled.md",
     "Excalidraw/vla.md",
     "Untitled 3.base",
@@ -331,35 +319,7 @@
     "工作日志/Drawing 2026-02-03 14.26.01.excalidraw.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Excalidraw/bt_behavior_tree.md",
-    "回调函数.md",
-    "远程连接.md",
-    "wowrobot/start.md",
-    "extended kalman  filter.md",
-    "Excalidraw/isaac.excalidraw.md",
-    "工作日志/脚踝关节 角速度阈值旋转.md",
-    "Excalidraw/isaac gym flow diagram.md",
-    "工作日志/RBDL 控制.md",
-    "工作日志/walk gesture analyse.md",
-    "工作日志/二月七日.md",
-    "工作日志/二月六日.md",
-    "Pasted image 20260209095327.png",
-    "Pasted image 20260209095145.png",
-    "Pasted image 20260209095018.png",
-    "Pasted image 20260209094919.png",
-    "Excalidraw/Hexo.md",
-    "Excalidraw/IPPO.md",
-    "Excalidraw/Drawing 2025-10-15 15.39.03.excalidraw.md",
-    "Excalidraw/AMP.md",
-    "extras_log.csv 数据格式说明.md",
-    "Linux 系统中为用户配置 Docker 权限.md",
-    "BW.md",
-    "vla.md",
     "vla",
-    "工作日志",
-    "外骨骼机器人",
-    "wowrobot",
-    "Su2024Experiment-freeExoskeleton.pdf",
     "Untitled.canvas"
   ]
 }
