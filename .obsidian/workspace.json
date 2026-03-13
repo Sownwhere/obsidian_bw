@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/walk gesture analyse.md",
+                "file": "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "walk gesture analyse"
+              "title": "外骨骼髋关节助力算法"
             }
           },
           {
@@ -37,42 +37,49 @@
             "id": "ef3d000500e17495",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "AI-ML/What Are Vision Language Models? How AI Sees & Understands Images.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 3.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "What Are Vision Language Models? How AI Sees & Understands Images"
+              "icon": "lucide-table",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "38d1a82bb76dd9b3",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 4.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 4"
             }
           },
           {
             "id": "c972fd7f5c2280cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Excalidraw/isaac gym flow diagram.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 5.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "isaac gym flow diagram"
+              "icon": "lucide-table",
+              "title": "Untitled 5"
             }
           },
           {
             "id": "f0577124602dd38d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作日志/脚踝关节 角速度阈值旋转.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "脚踝关节 角速度阈值旋转"
+              "title": "New tab"
             }
           },
           {
@@ -111,8 +118,7 @@
               "title": "AMP"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -256,7 +262,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,30 +282,43 @@
   },
   "active": "3aa54de3775aa277",
   "lastOpenFiles": [
-    "AI-ML/sampling_in_generation_models.md",
-    "AI-ML/FinRL Installation.md",
-    "AI-ML/extended kalman  filter.md",
-    "AI-ML/Bayes theorem.md",
-    "Dev-Tools/BW.md",
-    "Dev-Tools/always used.md",
-    "Untitled 5.base",
-    "Exoskeleton/extras_log.csv 数据格式说明.md",
-    "Exoskeleton/远程连接.md",
-    "Exoskeleton/外骨骼电机旋转角度.md",
-    "Exoskeleton/人体运动数据处理脚本解析.md",
+    "Exoskeleton/踝关节",
+    "Untitled 1",
+    "Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
+    "Exoskeleton/髋关节调研/Willians等-OpenExo: An open-­source modular exoskeleton to augment human function.pdf",
+    "Exoskeleton/髋关节调研/Zhang 等 - 2022 - Lower-Limb Joint Torque Prediction Using LSTM Neural Networks and Transfer Learning.pdf",
+    "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+    "Exoskeleton/髋关节调研/贝克 等 - 2023 - Exoskeletons need to react faster than physiological responses to improve standing balance.pdf",
+    "Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted.pdf",
+    "Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
+    "Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
+    "Exoskeleton/髋关节调研/Mooney 等 - 2025 - Deep domain adaptation eliminates costly data required for task-agnostic wearable robotic control.pdf",
+    "Exoskeleton/髋关节调研/Luo 等 - 2023 - Robust walking control of a lower limb rehabilitation exoskeleton coupled with a musculoskeletal mod.pdf",
     "Exoskeleton/RK3566 Upgrade.md",
+    "Exoskeleton/人体运动数据处理脚本解析.md",
     "Exoskeleton/AMP： 数据采集实验.md",
-    "Dev-Tools/回调函数.md",
-    "Dev-Tools/上传文件 到 docker里.md",
-    "Dev-Tools/ros2.md",
-    "Dev-Tools/nvidia cuda.md",
-    "Dev-Tools/Markdown (.md) Basic Grammar Guide.md",
-    "Dev-Tools/markdown_formula_guide.md",
-    "Dev-Tools/Linux 系统中为用户配置 Docker 权限.md",
-    "AI-ML/What Are Vision Language Models? How AI Sees & Understands Images.md",
-    "Exoskeleton",
-    "Dev-Tools",
-    "AI-ML",
+    "Exoskeleton/extras_log.csv 数据格式说明.md",
+    "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
+    "Excalidraw/isaac gym flow diagram.md",
+    "Exoskeleton/远程连接.md",
+    "Pasted Image 20260311145251_658.png",
+    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-15 15.39.03.excalidraw.md",
+    "Excalidraw/bt_behavior_tree.md",
+    "Excalidraw/AMP.md",
+    "Excalidraw/IPPO.md",
+    "Excalidraw/isaac.excalidraw.md",
+    "Skyworth/工作日志/Drawing 2026-02-03 14.26.01.excalidraw.md",
+    "Skyworth/工作日志/walk gesture analyse.md",
+    "Skyworth/工作日志/二月七日.md",
+    "Skyworth/工作日志/二月六日.md",
+    "Skyworth/工作日志/脚踝关节 角速度阈值旋转.md",
+    "Excalidraw/vla.md",
+    "Excalidraw/Hexo.md",
+    "Skyworth/外骨骼机器人/外骨骼关节绳子的张力.md",
+    "Skyworth/外骨骼机器人/外骨骼坐标轴的标定.md",
+    "wowrobot/start.md",
+    "Skyworth/电机转速参考.md",
     "images/Pasted Image 20260303182217_218.png",
     "images/Pasted Image 20260303174843_735.png",
     "images/Pasted Image 20260303174552_676.png",
@@ -308,18 +328,6 @@
     "images/Pasted image 20260209095327.png",
     "images/Pasted image 20260209095145.png",
     "images/Pasted image 20260209095018.png",
-    "images/Pasted image 20260209094919.png",
-    "Untitled 4.base",
-    "2026-03-04.md",
-    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
-    "Untitled.md",
-    "Excalidraw/vla.md",
-    "Untitled 3.base",
-    "Untitled 2.base",
-    "工作日志/Drawing 2026-02-03 14.26.01.excalidraw.md",
-    "Untitled 1.base",
-    "Untitled.base",
-    "vla",
     "Untitled.canvas"
   ]
 }
