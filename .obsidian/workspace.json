@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+                "file": "Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "外骨骼髋关节助力算法"
+              "title": "Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking"
             }
           },
           {
@@ -92,30 +92,6 @@
               },
               "icon": "lucide-image",
               "title": "Pasted image 20260107102434"
-            }
-          },
-          {
-            "id": "3022eb5a7db3e1a3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/AMP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AMP"
-            }
-          },
-          {
-            "id": "97f378461f8c5fc9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/AMP.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "AMP"
             }
           }
         ]
@@ -280,20 +256,20 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3aa54de3775aa277",
+  "active": "bc1336b957adca8c",
   "lastOpenFiles": [
+    "Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.pdf",
+    "Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
+    "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+    "Exoskeleton/踝关节/scirobotics.adt1591_sm.pdf",
     "Exoskeleton/踝关节",
     "Untitled 1",
     "Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
     "Exoskeleton/髋关节调研/Willians等-OpenExo: An open-­source modular exoskeleton to augment human function.pdf",
     "Exoskeleton/髋关节调研/Zhang 等 - 2022 - Lower-Limb Joint Torque Prediction Using LSTM Neural Networks and Transfer Learning.pdf",
-    "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
     "Exoskeleton/髋关节调研/贝克 等 - 2023 - Exoskeletons need to react faster than physiological responses to improve standing balance.pdf",
     "Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted.pdf",
     "Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
-    "Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
-    "Exoskeleton/髋关节调研/Mooney 等 - 2025 - Deep domain adaptation eliminates costly data required for task-agnostic wearable robotic control.pdf",
-    "Exoskeleton/髋关节调研/Luo 等 - 2023 - Robust walking control of a lower limb rehabilitation exoskeleton coupled with a musculoskeletal mod.pdf",
     "Exoskeleton/RK3566 Upgrade.md",
     "Exoskeleton/人体运动数据处理脚本解析.md",
     "Exoskeleton/AMP： 数据采集实验.md",
@@ -318,7 +294,6 @@
     "Skyworth/外骨骼机器人/外骨骼关节绳子的张力.md",
     "Skyworth/外骨骼机器人/外骨骼坐标轴的标定.md",
     "wowrobot/start.md",
-    "Skyworth/电机转速参考.md",
     "images/Pasted Image 20260303182217_218.png",
     "images/Pasted Image 20260303174843_735.png",
     "images/Pasted Image 20260303174552_676.png",
