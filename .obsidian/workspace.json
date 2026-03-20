@@ -11,14 +11,12 @@
             "id": "bc1336b957adca8c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Skyworth/工作日志/三月二十七日-工作任务.md",
-                "mode": "source",
-                "source": false
+                "file": "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.pdf"
               },
-              "icon": "lucide-file",
-              "title": "三月二十七日-工作任务"
+              "icon": "lucide-file-text",
+              "title": "Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking"
             }
           },
           {
@@ -128,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 1131.5110359191895
   },
   "right": {
     "id": "2ed49e0ffba82989",
@@ -233,8 +231,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bc1336b957adca8c",
+  "active": "3aa54de3775aa277",
   "lastOpenFiles": [
+    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
+    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
+    "Skyworth/工作日志/三月二十七日-工作任务.md",
     "Skyworth/工作日志/May 21.md",
     "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
     "TCN/evaluate && train.md",
@@ -244,7 +245,6 @@
     "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
     "TCN/SI41586_2024_8157_MOESM1_ESM.pdf",
     "TCN/tcn.pdf",
-    "Skyworth/工作日志/三月二十七日-工作任务.md",
     "TCN",
     "Untitled.base",
     "Untitled 1.base",
@@ -261,18 +261,17 @@
     "Skyworth/工作日志/脚踝关节 角速度阈值旋转.md",
     "Skyworth/工作日志/2025-05-27.md",
     "RL/PyTorch `.pt` 模型导出 ONNX 并在 RK3588 推理流程.md",
-    "Exoskeleton/远程连接.md",
-    "Exoskeleton/extras_log.csv 数据格式说明.md",
-    "Exoskeleton/RK3566 Upgrade.md",
-    "Exoskeleton/人体运动数据处理脚本解析.md",
+    "Skyworth/Exoskeleton/远程连接.md",
+    "Skyworth/Exoskeleton/extras_log.csv 数据格式说明.md",
+    "Skyworth/Exoskeleton/RK3566 Upgrade.md",
+    "Skyworth/Exoskeleton/人体运动数据处理脚本解析.md",
     "Excalidraw/IPPO.md",
-    "Exoskeleton/AMP： 数据采集实验.md",
-    "Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+    "Skyworth/Exoskeleton/AMP： 数据采集实验.md",
+    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
     "Pasted image 20260318110907.png",
     "Pasted image 20260318101901.png",
     "Pasted image 20260318101839.png",
     "Excalidraw/Hexo.md",
-    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
     "Pasted image 20260318101652.png",
     "Pasted image 20260318094734.png",
     "Pasted image 20260318093752.png",
