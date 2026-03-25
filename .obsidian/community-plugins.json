@@ -3,5 +3,6 @@
   "templater-obsidian",
   "table-editor-obsidian",
   "obsidian-excel-to-markdown-table",
-  "github-sync"
+  "github-sync",
+  "pdf-plus"
 ]

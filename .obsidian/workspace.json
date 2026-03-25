@@ -11,12 +11,30 @@
             "id": "bc1336b957adca8c",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-03-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-20"
+            }
+          },
+          {
+            "id": "716874ab17494ce9",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
-                "file": "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.pdf"
+                "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
+                "page": 4,
+                "left": -83,
+                "top": 154,
+                "zoom": 0.19906732339284638
               },
               "icon": "lucide-file-text",
-              "title": "Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking"
+              "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
             }
           },
           {
@@ -39,37 +57,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf"
+                "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
+                "page": 1,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
             }
           },
           {
-            "id": "9c8bac08bc016135",
+            "id": "1845356c828c19ee",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md"
+                "file": "Excalidraw/AMP.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-06 11.46.22.excalidraw"
-            }
-          },
-          {
-            "id": "d293c8c04bd26dac",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
+              "title": "AMP"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scp",
+                "query": "domain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1131.5110359191895
+    "width": 400.51103591918945
   },
   "right": {
     "id": "2ed49e0ffba82989",
@@ -213,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,57 +236,60 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "3aa54de3775aa277",
+  "active": "1845356c828c19ee",
   "lastOpenFiles": [
-    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
-    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
-    "Skyworth/工作日志/三月二十七日-工作任务.md",
-    "Skyworth/工作日志/May 21.md",
+    "Skyworth/Docker 常用命令总结.md",
+    "TCN/深度学习模型关系图谱：RNN、LSTM、CNN、TCN 与序列模型.md",
+    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
+    "TCN/TCN 复调音乐模型代码解析与核心概念.md",
+    "TCN/tcn.pdf",
+    "Skyworth/工作日志/2025-05-27.md",
+    "TCN/SI41586_2024_8157_MOESM1_ESM.pdf",
+    "TCN/Task-agnostic exoskeleton control via biological joint moment estimation.md",
     "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
     "TCN/evaluate && train.md",
-    "TCN/TCN 复调音乐模型代码解析与核心概念.md",
-    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
-    "transform/Transformer 知识点整理.md",
+    "Skyworth/Exoskeleton/Untitled.md",
+    "Skyworth/Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
+    "Skyworth/工作日志/May 21.md",
+    "Skyworth/工作日志/二月七日.md",
+    "Skyworth/工作日志/三月二十七日-工作任务.md",
+    "Skyworth/电机转速参考.md",
+    "Skyworth/环境教程--Exoskeleton_robot.md",
+    "Skyworth/安装并配置 nvidia-docker.md",
+    "Skyworth/install_nvidia_docker_ubuntu24.04.md",
+    "Skyworth/DOCKER INSTALLATION.md",
+    "Skyworth/Exoskeleton/髋关节调研/IMU-based_iterative_control_for_hip_extension_.pdf",
+    "Untitled 2.base",
+    "2026-03-20.md",
+    "Pasted image 20260320143046.png",
+    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
+    "Skyworth/Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
     "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
-    "TCN/SI41586_2024_8157_MOESM1_ESM.pdf",
-    "TCN/tcn.pdf",
-    "TCN",
-    "Untitled.base",
+    "Untitled.canvas",
     "Untitled 1.base",
-    "Untitled 5.base",
-    "Untitled 7.base",
-    "Untitled 3.base",
-    "transform",
+    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.pdf",
+    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
+    "transform/Transformer 知识点整理.md",
+    "TCN",
     "Skyworth/工作日志/Drawing 2026-02-03 14.26.01.excalidraw.md",
     "Skyworth/工作日志/RBDL 控制.md",
     "Skyworth/工作日志/walk gesture analyse.md",
-    "Skyworth/工作日志/二月七日.md",
     "Skyworth/工作日志/二月六日.md",
     "Skyworth/工作日志/电机速度转换.md",
-    "Skyworth/工作日志/脚踝关节 角速度阈值旋转.md",
-    "Skyworth/工作日志/2025-05-27.md",
-    "RL/PyTorch `.pt` 模型导出 ONNX 并在 RK3588 推理流程.md",
-    "Skyworth/Exoskeleton/远程连接.md",
-    "Skyworth/Exoskeleton/extras_log.csv 数据格式说明.md",
-    "Skyworth/Exoskeleton/RK3566 Upgrade.md",
-    "Skyworth/Exoskeleton/人体运动数据处理脚本解析.md",
-    "Excalidraw/IPPO.md",
-    "Skyworth/Exoskeleton/AMP： 数据采集实验.md",
-    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
     "Pasted image 20260318110907.png",
     "Pasted image 20260318101901.png",
     "Pasted image 20260318101839.png",
-    "Excalidraw/Hexo.md",
     "Pasted image 20260318101652.png",
     "Pasted image 20260318094734.png",
     "Pasted image 20260318093752.png",
     "Pasted image 20260318092947.png",
     "Pasted Image 20260311145251_658.png",
-    "images/Pasted Image 20260303182217_218.png",
-    "images/Pasted Image 20260303174843_735.png",
-    "Untitled.canvas"
+    "images/Pasted Image 20260303182217_218.png"
   ]
 }
