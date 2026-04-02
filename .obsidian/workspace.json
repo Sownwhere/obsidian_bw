@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-03-20.md",
+                "file": "Skyworth/工作日志/三月二十七日-工作任务.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-20"
+              "title": "三月二十七日-工作任务"
             }
           },
           {
@@ -29,8 +29,8 @@
               "state": {
                 "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
                 "page": 4,
-                "left": -83,
-                "top": 154,
+                "left": -2871,
+                "top": 159,
                 "zoom": 0.19906732339284638
               },
               "icon": "lucide-file-text",
@@ -59,7 +59,9 @@
               "state": {
                 "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
                 "page": 1,
-                "zoom": 1
+                "left": -4,
+                "top": 795,
+                "zoom": 2.243917107358604
               },
               "icon": "lucide-file-text",
               "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
@@ -99,16 +101,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skyworth/外骨骼机器人/外骨骼关节绳子的张力.md",
+                "file": "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "外骨骼关节绳子的张力"
+              "title": "外骨骼髋关节助力算法"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,7 +141,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "domain",
+                "query": "RKNN_AI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,11 +162,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 400.51103591918945
+    "width": 200
   },
   "right": {
     "id": "2ed49e0ffba82989",
@@ -272,46 +274,45 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f967a01ebe14e3e3",
+  "active": "bc1336b957adca8c",
   "lastOpenFiles": [
-    "Skyworth/工作日志/张紧力.md",
-    "robotics/什么是封闭解.md",
+    "Skyworth/Exoskeleton/远程连接.md",
+    "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
+    "TCN/tcn.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
+    "2026-03-20.md",
+    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
     "工作总结/工作总结连接.md",
     "RL/Isaac lab/skrl 强化学习库 的完整训练配置文件.md",
-    "robotics",
+    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+    "Skyworth/工作日志/三月二十七日-工作任务.md",
+    "TCN/Task-agnostic exoskeleton control via biological joint moment estimation.md",
+    "Skyworth/Exoskeleton/髋关节调研/Willians等-OpenExo: An open-­source modular exoskeleton to augment human function.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
+    "Skyworth/Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
+    "Untitled 4.base",
+    "Skyworth/Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/IMU-based_iterative_control_for_hip_extension_.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/Luo 等 - 2023 - Robust walking control of a lower limb rehabilitation exoskeleton coupled with a musculoskeletal mod.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/Molinaro 等 - 2024 - Task-agnostic exoskeleton control via biological joint moment estimation.pdf",
+    "Skyworth/Exoskeleton/AMP： 数据采集实验.md",
+    "Skyworth/Exoskeleton/外骨骼电机旋转角度.md",
+    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
+    "Skyworth/外骨骼机器人/外骨骼关节绳子的张力.md",
+    "Skyworth/工作日志/张紧力.md",
+    "robotics/什么是封闭解.md",
     "RL/Isaac lab/强化学习（RL）训练环境 代码.md",
     "RL/机器人运动数据处理与运动学解算项目文档.md",
-    "工作总结",
     "Excalidraw/AMP.md",
     "Skyworth/Docker 常用命令总结.md",
     "TCN/深度学习模型关系图谱：RNN、LSTM、CNN、TCN 与序列模型.md",
-    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
     "TCN/TCN 复调音乐模型代码解析与核心概念.md",
-    "TCN/tcn.pdf",
     "Skyworth/工作日志/2025-05-27.md",
-    "TCN/SI41586_2024_8157_MOESM1_ESM.pdf",
-    "TCN/Task-agnostic exoskeleton control via biological joint moment estimation.md",
-    "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
     "TCN/evaluate && train.md",
     "Skyworth/Exoskeleton/Untitled.md",
-    "Skyworth/Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
     "Skyworth/工作日志/May 21.md",
-    "Skyworth/工作日志/二月七日.md",
-    "Skyworth/工作日志/三月二十七日-工作任务.md",
-    "Skyworth/电机转速参考.md",
-    "Skyworth/环境教程--Exoskeleton_robot.md",
-    "Skyworth/安装并配置 nvidia-docker.md",
-    "Skyworth/install_nvidia_docker_ubuntu24.04.md",
-    "Skyworth/DOCKER INSTALLATION.md",
-    "Skyworth/Exoskeleton/髋关节调研/IMU-based_iterative_control_for_hip_extension_.pdf",
-    "Untitled 2.base",
-    "2026-03-20.md",
     "Pasted image 20260320143046.png",
-    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
-    "Skyworth/Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
-    "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
     "Untitled.canvas",
-    "Untitled 1.base",
     "Pasted image 20260318110907.png",
     "Pasted image 20260318101901.png",
     "Pasted image 20260318101839.png",
