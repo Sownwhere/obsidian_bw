@@ -8,105 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc1336b957adca8c",
+            "id": "a2ef0925abd9ce5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skyworth/Exoskeleton/远程连接.md",
+                "file": "TCN 训练结果对比.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "远程连接"
+              "title": "TCN 训练结果对比"
             }
           },
           {
-            "id": "716874ab17494ce9",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
-                "page": 4,
-                "left": -2871,
-                "top": 159,
-                "zoom": 0.19906732339284638
-              },
-              "icon": "lucide-file-text",
-              "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
-            }
-          },
-          {
-            "id": "01294b7a2fd22cf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Temporal Convolutional Network (TCN) 学习笔记"
-            }
-          },
-          {
-            "id": "2641ed8a0266538a",
+            "id": "ce42173b3d899893",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
                 "page": 1,
-                "left": -4,
+                "left": -15,
                 "top": 795,
-                "zoom": 2.243917107358604
+                "zoom": 1.021794932098724
               },
               "icon": "lucide-file-text",
               "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
-            }
-          },
-          {
-            "id": "1845356c828c19ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工作总结/工作总结连接.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "工作总结连接"
-            }
-          },
-          {
-            "id": "129d1f227e1beaf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RL/Isaac lab/skrl 强化学习库 的完整训练配置文件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "skrl 强化学习库 的完整训练配置文件"
-            }
-          },
-          {
-            "id": "f967a01ebe14e3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "外骨骼髋关节助力算法"
             }
           }
         ]
@@ -141,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scp",
+                "query": "penalty",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,12 +90,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 462.5
   },
   "right": {
     "id": "2ed49e0ffba82989",
@@ -254,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,54 +202,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "bc1336b957adca8c",
+  "active": "a2ef0925abd9ce5b",
   "lastOpenFiles": [
-    "Skyworth/Exoskeleton/髋关节调研/Molinaro 等 - 2024 - Task-agnostic exoskeleton control via biological joint moment estimation.pdf",
-    "Untitled 5.base",
-    "Skyworth/工作日志/三月二十七日-工作任务.md",
-    "Skyworth/Exoskeleton/远程连接.md",
+    "Pasted image 20260415092603.png",
+    "Pasted image 20260415092404.png",
+    "Pasted image 20260415091214.png",
+    "Pasted image 20260414191607.png",
+    "RL/梯度下降的过程优化.md",
+    "RL/梯度下降.md",
+    "TCN 训练结果对比.md",
+    "Pasted image 20260414163609.png",
+    "2026-03-20.md",
+    "RL/PPO续.md",
+    "RL/Isaac lab/skrl 强化学习库 的完整训练配置文件.md",
+    "工作总结/工作总结连接.md",
     "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
+    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
+    "RL/PPO.md",
+    "Pasted image 20260414134538.png",
+    "Pasted image 20260414134046.png",
+    "Pasted image 20260413174407.png",
+    "Pasted image 20260413173457.png",
+    "Pasted image 20260413165829.png",
+    "Pasted image 20260413165323.png",
+    "RL/KL 散度.md",
+    "Untitled.md",
+    "RL/AMP.md",
+    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
+    "RL/MIPPO.md",
+    "Skyworth/工作日志/四月十日.md",
+    "Skyworth/Exoskeleton/髋关节调研/Molinaro 等 - 2024 - Task-agnostic exoskeleton control via biological joint moment estimation.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/Estimatingscirobotics.adi8852.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/SI_Estimatingscirobotics.adi8852_sm.pdf",
+    "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
+    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
+    "Excalidraw/Hexo.md",
+    "Excalidraw/isaac.excalidraw.md",
+    "Excalidraw/isaac gym flow diagram.md",
+    "Excalidraw/IPPO.md",
+    "Excalidraw/Drawing 2025-10-15 15.39.03.excalidraw.md",
+    "Excalidraw/bt_behavior_tree.md",
+    "Dev-Tools/nvidia cuda.md",
+    "Dev-Tools/ros2.md",
+    "Untitled 5.base",
     "TCN/tcn.pdf",
     "Skyworth/Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
-    "2026-03-20.md",
-    "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
-    "工作总结/工作总结连接.md",
-    "RL/Isaac lab/skrl 强化学习库 的完整训练配置文件.md",
-    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
-    "TCN/Task-agnostic exoskeleton control via biological joint moment estimation.md",
     "Skyworth/Exoskeleton/髋关节调研/Willians等-OpenExo: An open-­source modular exoskeleton to augment human function.pdf",
-    "Skyworth/Exoskeleton/髋关节调研/openexo 髋关节算法.md",
     "Skyworth/Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
     "Untitled 4.base",
-    "Skyworth/Exoskeleton/髋关节调研/Bokman等-Delayed Output Feedback Control for Gait Assistance With a Robotic Hip Exoskeleton.pdf",
-    "Skyworth/Exoskeleton/髋关节调研/IMU-based_iterative_control_for_hip_extension_.pdf",
-    "Skyworth/Exoskeleton/髋关节调研/Luo 等 - 2023 - Robust walking control of a lower limb rehabilitation exoskeleton coupled with a musculoskeletal mod.pdf",
-    "Skyworth/Exoskeleton/AMP： 数据采集实验.md",
-    "Skyworth/Exoskeleton/外骨骼电机旋转角度.md",
-    "Skyworth/Exoskeleton/踝关节/Human-in-the-Loop Optimization of Exoskeleton Assistance During Walking.md",
-    "Skyworth/外骨骼机器人/外骨骼关节绳子的张力.md",
-    "Skyworth/工作日志/张紧力.md",
-    "robotics/什么是封闭解.md",
-    "RL/Isaac lab/强化学习（RL）训练环境 代码.md",
-    "RL/机器人运动数据处理与运动学解算项目文档.md",
-    "Excalidraw/AMP.md",
-    "Skyworth/Docker 常用命令总结.md",
-    "TCN/深度学习模型关系图谱：RNN、LSTM、CNN、TCN 与序列模型.md",
-    "TCN/TCN 复调音乐模型代码解析与核心概念.md",
-    "Skyworth/工作日志/2025-05-27.md",
-    "TCN/evaluate && train.md",
-    "Skyworth/Exoskeleton/Untitled.md",
-    "Skyworth/工作日志/May 21.md",
-    "Pasted image 20260320143046.png",
-    "Untitled.canvas",
-    "Pasted image 20260318110907.png",
-    "Pasted image 20260318101901.png",
-    "Pasted image 20260318101839.png",
-    "Pasted image 20260318101652.png",
-    "Pasted image 20260318094734.png",
-    "Pasted image 20260318093752.png",
-    "Pasted image 20260318092947.png",
-    "Pasted Image 20260311145251_658.png",
-    "images/Pasted Image 20260303182217_218.png"
+    "Untitled.canvas"
   ]
 }
