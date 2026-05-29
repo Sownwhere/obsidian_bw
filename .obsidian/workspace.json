@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCN/TCN_ankle 实验.md",
+                "file": "工作总结/工作总结连接.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TCN_ankle 实验"
+              "title": "工作总结连接"
+            }
+          },
+          {
+            "id": "d07e56c14f79b476",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-ML/Bayes theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bayes theorem"
+            }
+          },
+          {
+            "id": "919320fbc9b4b92a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCN/外骨骼生物关节力矩估计介绍.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外骨骼生物关节力矩估计介绍"
+            }
+          },
+          {
+            "id": "70b9b238ef0fabd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI-ML/基础数学知识.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "基础数学知识"
             }
           },
           {
@@ -42,9 +84,9 @@
               "state": {
                 "file": "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
                 "page": 1,
-                "left": -15,
+                "left": -5,
                 "top": 795,
-                "zoom": 1.021794932098724
+                "zoom": 2.769303650743521
               },
               "icon": "lucide-file-text",
               "title": "Molinaro 等 - 2024 - Task-agnostic exoskeleton"
@@ -56,15 +98,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "TCN/外骨骼生物关节力矩估计介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "外骨骼生物关节力矩估计介绍"
+            }
+          },
+          {
+            "id": "ae12dadf3660b224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "robotics/IK.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "IK"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -96,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dilated",
+                "query": "Inverse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -229,54 +286,54 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "a2ef0925abd9ce5b",
+  "active": "ae12dadf3660b224",
   "lastOpenFiles": [
-    "Pasted image 20260506172407.png",
-    "TCN/sliding window causal dilated convolution.md",
-    "TCN/TCN_ankle 实验.md",
-    "TCN/TCN 外骨骼项目.md",
+    "Skyworth/Exoskeleton/人体运动数据处理脚本解析.md",
+    "robotics/IK.md",
+    "Untitled 9.base",
+    "TCN/外骨骼生物关节力矩估计介绍.md",
     "TCN/Temporal Convolutional Network (TCN) 学习笔记.md",
-    "TCN/TCN 复调音乐模型代码解析与核心概念.md",
+    "TCN/TCN_ankle 实验.md",
+    "TCN/evaluate && train.md",
+    "Excalidraw/AMP.md",
+    "Excalidraw/bt_behavior_tree.md",
+    "Excalidraw/Drawing 2025-10-15 15.39.03.excalidraw.md",
+    "AI-ML/What Are Vision Language Models? How AI Sees & Understands Images.md",
+    "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
+    "工作总结/工作总结连接.md",
+    "AI-ML/Bayes theorem.md",
+    "AI-ML/基础数学知识.md",
+    "AI-ML/RKNN  ONNX  TensorRT 与量化校准总结(工程笔记).md",
+    "Excalidraw/Drawing 2026-05-26 19.17.05.excalidraw.md",
     "TCN/tcn.pdf",
-    "Untitled 7.base",
-    "Untitled 6.base",
-    "TCN 训练结果对比.md",
+    "TCN/SI41586_2024_8157_MOESM1_ESM.pdf",
+    "TCN/sliding window causal dilated convolution.md",
+    "TCN/Task-agnostic exoskeleton control via biological joint moment estimation.md",
+    "TCN/TCN 复调音乐模型代码解析与核心概念.md",
+    "TCN/深度学习模型关系图谱：RNN、LSTM、CNN、TCN 与序列模型.md",
+    "AI-ML/Untitled",
+    "TCN/TCN 外骨骼项目.md",
+    "RL/Isaac lab/Humanoid_AMP.md",
+    "Untitled 8.base",
+    "Skyworth/Exoskeleton/远程连接.md",
+    "git/git 一次性ssh.md",
+    "Excalidraw/isaac gym flow diagram.md",
+    "自动化/人形机器人 mpc控制频率.md",
+    "Skyworth/Exoskeleton/AMP： 数据采集实验.md",
+    "自动化",
+    "Skyworth/Exoskeleton/髋关节调研/Estimatingscirobotics.adi8852.pdf",
+    "Pasted image 20260508170306.png",
+    "Pasted image 20260508170056.png",
+    "Skyworth/Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
+    "Skyworth/Exoskeleton/髋关节调研/NagarajanAguirreGoswami-Integral admittance shaping-Accepted 1.pdf",
+    "Pasted Image 20260311145251_658.png",
+    "Pasted image 20260507093131.png",
+    "Pasted image 20260506183412.png",
+    "Pasted image 20260506172407.png",
     "Pasted image 20260429112909.png",
     "Pasted image 20260429112657.png",
     "Pasted image 20260429112242.png",
     "Pasted image 20260429112226.png",
-    "Pasted image 20260429110522.png",
-    "Untitled 1.md",
-    "Pasted image 20260427160315.png",
-    "Pasted image 20260427160209.png",
-    "Pasted image 20260427160152.png",
-    "TCN/Molinaro 等 - 2024 - Task-agnostic exoskeleton.pdf",
-    "Pasted image 20260421145823.png",
-    "AI-ML/Crop_len.md",
-    "Pasted image 20260421094020.png",
-    "AI-ML/maybe work.md",
-    "quant/日线级别均线择时策略回测.md",
-    "quant",
-    "RL/梯度下降的过程优化.md",
-    "RL/梯度下降.md",
-    "2026-03-20.md",
-    "RL/PPO续.md",
-    "RL/Isaac lab/skrl 强化学习库 的完整训练配置文件.md",
-    "工作总结/工作总结连接.md",
-    "RL/PPO.md",
-    "RL/KL 散度.md",
-    "Untitled.md",
-    "RL/AMP.md",
-    "Skyworth/Exoskeleton/髋关节调研/外骨骼髋关节助力算法.md",
-    "RL/MIPPO.md",
-    "Skyworth/工作日志/四月十日.md",
-    "Skyworth/Exoskeleton/髋关节调研/Molinaro 等 - 2024 - Task-agnostic exoskeleton control via biological joint moment estimation.pdf",
-    "Skyworth/Exoskeleton/髋关节调研/Estimatingscirobotics.adi8852.pdf",
-    "Skyworth/Exoskeleton/髋关节调研/SI_Estimatingscirobotics.adi8852_sm.pdf",
-    "Excalidraw/Drawing 2026-03-06 11.46.22.excalidraw.md",
-    "Excalidraw/Drawing 2026-03-03 17.41.43.excalidraw.md",
-    "Untitled 5.base",
-    "Skyworth/Exoskeleton/髋关节调研/Ramella-Adaptive Negative Damping Control for User-Dependent.pdf",
     "Untitled.canvas"
   ]
 }

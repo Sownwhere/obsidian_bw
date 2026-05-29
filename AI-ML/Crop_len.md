@@ -1,6 +1,5 @@
-以下是为您整理好的 Markdown 文档内容。您可以直接复制以下代码块中的全部内容，粘贴到任意文本编辑器中，并保存为 `crop_len_transform_training.md` 即可使用。
 
-```markdown
+
 # `crop_len` 在 Transform 训练中的作用与原理
 
 > **说明**：在深度学习数据预处理流水线中，`transform` 通常指数据增强/变换管道（如 `torchvision.transforms`、`albumentations`、`mmcv` 或自定义 Dataset 的 `__getitem__`）。`crop_len` 并非官方标准参数名，但在视频、时序信号或一维序列处理代码中广泛使用，字面含义为**“裁剪长度”**。
@@ -69,5 +68,3 @@ cropped_data = data[start_idx : start_idx + crop_len]
 
 其设计根植于深度学习对**输入分布一致性**与**局部上下文建模**的要求。实际使用时需结合**数据模态特性**、**模型感受野**与**任务语义周期**进行调参，并在训练/推理阶段采用匹配的裁剪策略。
 
----
-*文档整理时间：2026-04-21 | 适用框架：PyTorch / MMAction2 / PyTorchVideo / 自定义 DataLoader*
